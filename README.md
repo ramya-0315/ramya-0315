@@ -58,13 +58,15 @@ Includes unit testing for controller and key service classes using **JUnit** and
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
+### 💬 Languages Known
 
-## 🌐 Languages Known
+| Category                | Languages / Tools                                                |
+|-------------------------|------------------------------------------------------------------|
+| **Programming**         | Java, Python, C++, JavaScript, SQL                              |
+| **Visual Coding**       | PictoBlox (Advanced), Scratch                          |
+| **Web & Markup**        | HTML, CSS, XML, JSON                                             |
+| **Template/Text Tags**  | Markdown, YAML                                  |
 
-- **Programming:** Java, Python, C++, JavaScript  
-- **Block Coding:** Scratch, Picolux Advanced (visual programming tools)  
-
----
 
 ## 🌱 Currently Learning
 
